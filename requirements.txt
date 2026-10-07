@@ -1,0 +1,5 @@
+streamlit>=1.40,<2
+pandas>=2.1,<3
+numpy>=1.26,<3
+requests>=2.31,<3
+kiteconnect>=5.0.1,<6
